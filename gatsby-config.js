@@ -3,7 +3,6 @@ module.exports = {
     siteUrl: "https://www.tervay.com",
     title: "tervay.com",
   },
-  pathPrefix: "/tervay.com",
   plugins: [
     "gatsby-plugin-sass",
     "gatsby-plugin-mdx",
