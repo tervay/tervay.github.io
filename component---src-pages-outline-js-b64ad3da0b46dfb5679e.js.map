@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-outline-js-b64ad3da0b46dfb5679e.js","mappings":"sKAEe,SAASA,IACtB,OAAO","sources":["webpack://tervay.com/./src/pages/outline.js"],"sourcesContent":["import React from \"react\";\n\nexport default function Outline() {\n  return <div>outline</div>;\n}\n"],"names":["Outline"],"sourceRoot":""}
